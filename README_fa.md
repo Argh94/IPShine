@@ -60,7 +60,7 @@
 
 ## 📸 اسکرین‌شات‌ها
 
-![WebSift Logo](https://github.com/Argh94/IPShine/blob/main/IMG.png)
+![WebSift Logo](https://github.com/Argh94/IPShine/blob/main/img.png)
 
 ## 🛠 ساخته‌شده با
 
